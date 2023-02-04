@@ -4,4 +4,4 @@ An M.2 A+E to mPCIe adapter for coral TPU
 
 <img src="/images/board.PNG" alt="board" title="board" width=33%>
 <img src="/images/3d.PNG" alt="3d" title="3d" width=33%>
-<img src="/images/coral3d.PNG" alt="coral3d" title="coral3d" width=33%>
+<img src="/images/3dcoral.PNG" alt="coral3d" title="3dcoral" width=33%>
